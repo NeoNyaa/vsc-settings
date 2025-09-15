@@ -25,5 +25,11 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
-    "security.workspace.trust.enabled": false
+    "security.workspace.trust.enabled": false,
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets"
+    ]
 }
