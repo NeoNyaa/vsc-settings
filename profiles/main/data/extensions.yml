@@ -1,0 +1,8 @@
+disabled: []
+enabled:
+  - id: monokai.theme-monokai-pro-vscode
+    uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
