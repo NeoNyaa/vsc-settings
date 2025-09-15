@@ -31,5 +31,16 @@
         "keybindings",
         "settings",
         "snippets"
-    ]
+    ],
+    "telemetry.telemetryLevel": "off",
+    "telemetry.editStats.enabled": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
+    "workbench.startupEditor": "none",
+    "chat.disableAIFeatures": true,
+    "chat.commandCenter.enabled": false,
+    "chat.agent.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false
 }
