@@ -8,7 +8,7 @@
     "editor.autoIndentOnPaste": true,
     "editor.largeFileOptimizations": false,
     "editor.linkedEditing": true,
-    "editor.renderWhitespace": "trailing",
+    "editor.renderWhitespace": "boundary",
     "editor.smoothScrolling": true,
     "editor.showFoldingControls": "always",
     "editor.cursorBlinking": "phase",
