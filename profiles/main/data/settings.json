@@ -1,20 +1,15 @@
 {
     "workbench.colorTheme": "Monokai Pro",
     "workbench.iconTheme": "Monokai Pro Icons",
-    "security.workspace.trust.untrustedFiles": "open",
     "editor.fontFamily": "\"FiraCode Nerd Font\"",
     "editor.tabSize": 2,
     "editor.formatOnPaste": true,
     "editor.accessibilitySupport": "off",
     "editor.autoIndentOnPaste": true,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.largeFileOptimizations": false,
     "editor.linkedEditing": true,
     "editor.renderWhitespace": "trailing",
-    "editor.scrollbar.horizontal": "visible",
     "editor.smoothScrolling": true,
-    "editor.scrollbar.vertical": "visible",
-    "editor.scrollOnMiddleClick": true,
     "editor.showFoldingControls": "always",
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": "on",
@@ -42,5 +37,15 @@
     "chat.commandCenter.enabled": false,
     "chat.agent.enabled": false,
     "workbench.layoutControl.enabled": false,
-    "window.commandCenter": false
+    "window.commandCenter": false,
+    "workbench.editor.empty.hint": "hidden",
+    "explorer.confirmDelete": false,
+    "window.dialogStyle": "custom",
+    "nim.formatOnSave": true,
+    "nim.nimprettyIndent": 2,
+    "workbench.colorCustomizations": {
+        "regionmarker.background": "#ff3b9833",
+        "regionmarker.foreground": "#ff3b98ff"
+    },
+    "extensions.ignoreRecommendations": true
 }

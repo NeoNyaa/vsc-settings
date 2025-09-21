@@ -1,8 +1,12 @@
 disabled: []
 enabled:
+  - id: awwsky.regionmarker
+    uuid: 3752c4cd-4960-462a-8c17-0b62ec81c038
+  - id: mikeburgh.xml-format
+    uuid: ec0a68f4-7ba0-42eb-b1f4-b6ef4f1755a7
   - id: monokai.theme-monokai-pro-vscode
     uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
-  - id: PKief.material-icon-theme
-    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: NimLang.nimlang
+    uuid: 11cd9e22-9edc-411a-937c-9546d1c5b4b5
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
