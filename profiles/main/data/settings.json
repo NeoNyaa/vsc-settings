@@ -47,5 +47,7 @@
         "regionmarker.background": "#ff3b9833",
         "regionmarker.foreground": "#ff3b98ff"
     },
-    "extensions.ignoreRecommendations": true
+    "extensions.ignoreRecommendations": true,
+    "syncSettings.confirmSync": true,
+    "editor.multiCursorModifier": "ctrlCmd"
 }
