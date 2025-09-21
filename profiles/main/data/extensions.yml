@@ -1,3 +1,20 @@
+builtin:
+  disabled:
+    - vscode.grunt
+    - vscode.gulp
+    - vscode.ipynb
+    - vscode.jake
+    - vscode.builtin-notebook-renderers
+    - vscode.theme-abyss
+    - vscode.theme-defaults
+    - vscode.theme-kimbie-dark
+    - vscode.theme-monokai
+    - vscode.theme-monokai-dimmed
+    - vscode.theme-quietlight
+    - vscode.theme-red
+    - vscode.theme-solarized-dark
+    - vscode.theme-solarized-light
+    - vscode.theme-tomorrow-night-blue
 disabled: []
 enabled:
   - id: awwsky.regionmarker
@@ -6,6 +23,8 @@ enabled:
     uuid: ec0a68f4-7ba0-42eb-b1f4-b6ef4f1755a7
   - id: monokai.theme-monokai-pro-vscode
     uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
+  - id: ms-vscode.powershell
+    uuid: 40d39ce9-c381-47a0-80c8-a6661f731eab
   - id: NimLang.nimlang
     uuid: 11cd9e22-9edc-411a-937c-9546d1c5b4b5
   - id: zokugun.cron-tasks

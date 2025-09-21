@@ -49,5 +49,8 @@
     },
     "extensions.ignoreRecommendations": true,
     "syncSettings.confirmSync": true,
-    "editor.multiCursorModifier": "ctrlCmd"
+    "editor.multiCursorModifier": "ctrlCmd",
+    "powershell.integratedConsole.showOnStartup": false,
+    "powershell.integratedConsole.startInBackground": true,
+    "git.postCommitCommand": "sync",
 }
