@@ -1,7 +1,7 @@
 {
     "workbench.colorTheme": "Monokai Pro",
-    "workbench.iconTheme": "Monokai Pro Icons",
-    "editor.fontFamily": "\"FiraCode Nerd Font\"",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.tabSize": 2,
     "editor.formatOnPaste": true,
     "editor.accessibilitySupport": "off",
@@ -53,4 +53,16 @@
     "powershell.integratedConsole.showOnStartup": false,
     "powershell.integratedConsole.startInBackground": true,
     "git.postCommitCommand": "sync",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.secondarySideBar.showLabels": false,
+    "files.associations": {
+        "*.cfg": "properties",
+        "pack.mcmeta": "json"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "geode.geodeSdkPath": "C:\\Users\\Neo\\Documents\\Geode",
+    "geode.geodeCliPath": "C:\\Users\\Neo\\AppData\\Local\\Microsoft\\WinGet\\Packages\\GeodeSDK.GeodeCLI_Microsoft.Winget.Source_8wekyb3d8bbwe\\geode.exe",
+    "markdown-preview-enhanced.previewTheme": "none.css"
 }
